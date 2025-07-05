@@ -18,3 +18,7 @@ should become
 - Which means the starting folders in pwd should be replaced by single starting letters (in order, which means do it for first folder if pwd still doesn't fit the screen then do it for the second folder if it still doesn't fit then third and so on...) of their starting words in order for the whole pwd to fit the full screen
 
 - Slightly dim the colors of the preview pane, it should be the same color but it should be slightly dimmed to indicate it is not the current pane
+
+- lf config file, all colors for cut, paste and so on...
+  
+- minimal c code, below 1000 loc, give to claude and analyze efficiency
